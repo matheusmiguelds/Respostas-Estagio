@@ -1,0 +1,6 @@
+Primeiro, eu ligaria um interruptor e aguardaria alguns minutos. Após isso eu entraria em uma sala e checaria se está quente a lâmpada.\
+Se estiver: Marcaria que o interruptor acendido é da sala 1, faltaria descobrir os outros dois.
+Se não estiver: Marcaria que o interruptor seria da sala 2 ou 3
+Faria a mesma estratégia com outro interruptor.
+Se estiver: Marcaria que o interruptor acendido é da sala 2, logo a ultima sala seria 3.
+Se não estiver: Inverto as a ordem selecionada e rezo.
